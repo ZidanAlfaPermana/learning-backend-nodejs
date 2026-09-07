@@ -1,0 +1,7 @@
+# Generated automatically by my python script
+.DS_Store
+.idea/
+Thumbs.db
+node_modules/
+npm-debug.log*
+yarn-error.log*
